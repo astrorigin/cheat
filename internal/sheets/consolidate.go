@@ -1,7 +1,7 @@
 package sheets
 
 import (
-	"github.com/cheat/cheat/internal/sheet"
+	"github.com/astrorigin/cheat/internal/sheet"
 )
 
 // Consolidate applies cheatsheet "overrides", resolving title conflicts that

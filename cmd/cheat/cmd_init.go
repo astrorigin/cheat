@@ -9,7 +9,7 @@ import (
 
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/cheat/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/config"
 )
 
 // cmdInit displays an example config file.

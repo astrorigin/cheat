@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"github.com/cheat/cheat/internal/cheatpath"
+	"github.com/astrorigin/cheat/internal/cheatpath"
 )
 
 // TestValidateCorrect asserts that valid configs are validated successfully

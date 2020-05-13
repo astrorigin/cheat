@@ -9,8 +9,8 @@ import (
 	"github.com/davecgh/go-spew/spew"
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/cheat/cheat/internal/cheatpath"
-	"github.com/cheat/cheat/internal/mock"
+	"github.com/astrorigin/cheat/internal/cheatpath"
+	"github.com/astrorigin/cheat/internal/mock"
 )
 
 // TestConfig asserts that the configs are loaded correctly

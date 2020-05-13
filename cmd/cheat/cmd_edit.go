@@ -7,9 +7,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/cheat/cheat/internal/cheatpath"
-	"github.com/cheat/cheat/internal/config"
-	"github.com/cheat/cheat/internal/sheets"
+	"github.com/astrorigin/cheat/internal/cheatpath"
+	"github.com/astrorigin/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/sheets"
 )
 
 // cmdEdit opens a cheatsheet for editing (or creates it if it doesn't exist).

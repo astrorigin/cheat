@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	cp "github.com/cheat/cheat/internal/cheatpath"
+	cp "github.com/astrorigin/cheat/internal/cheatpath"
 
 	"github.com/mitchellh/go-homedir"
 	"gopkg.in/yaml.v2"

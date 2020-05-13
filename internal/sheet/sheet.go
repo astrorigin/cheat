@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"sort"
 
-	"github.com/cheat/cheat/internal/frontmatter"
+	"github.com/astrorigin/cheat/internal/frontmatter"
 )
 
 // Sheet encapsulates sheet information

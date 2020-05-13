@@ -8,9 +8,9 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/cheat/cheat/internal/config"
-	"github.com/cheat/cheat/internal/sheet"
-	"github.com/cheat/cheat/internal/sheets"
+	"github.com/astrorigin/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/sheet"
+	"github.com/astrorigin/cheat/internal/sheets"
 )
 
 // cmdList lists all available cheatsheets.

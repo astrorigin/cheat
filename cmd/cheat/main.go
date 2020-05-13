@@ -12,9 +12,9 @@ import (
 	"github.com/docopt/docopt-go"
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/cheat/cheat/internal/cheatpath"
-	"github.com/cheat/cheat/internal/config"
-	"github.com/cheat/cheat/internal/installer"
+	"github.com/astrorigin/cheat/internal/cheatpath"
+	"github.com/astrorigin/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/installer"
 )
 
 const version = "3.10.0"

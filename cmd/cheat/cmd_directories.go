@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/cheat/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/config"
 )
 
 // cmdDirectories lists the configured cheatpaths.

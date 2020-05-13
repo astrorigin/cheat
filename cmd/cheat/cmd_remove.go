@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cheat/cheat/internal/config"
-	"github.com/cheat/cheat/internal/sheets"
+	"github.com/astrorigin/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/sheets"
 )
 
 // cmdRemove opens a cheatsheet for editing (or creates it if it doesn't exist).

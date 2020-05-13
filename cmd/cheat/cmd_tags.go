@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cheat/cheat/internal/config"
-	"github.com/cheat/cheat/internal/sheets"
+	"github.com/astrorigin/cheat/internal/config"
+	"github.com/astrorigin/cheat/internal/sheets"
 )
 
 // cmdTags lists all tags in use.

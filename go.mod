@@ -1,4 +1,4 @@
-module github.com/cheat/cheat
+module github.com/astrorigin/cheat
 
 go 1.14
 
